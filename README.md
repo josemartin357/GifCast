@@ -1,5 +1,5 @@
 # **GifCast: If Weather Was a Gif!**
-Have you ever wondered what the weather would like if it were GIF? Search no longer, we have you set in our app!
+Have you ever wondered what the weather would be like if it were GIF? Search no longer, we have you set in our app!
 
 Welcome to GifCast!
 
